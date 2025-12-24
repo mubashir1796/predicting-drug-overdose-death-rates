@@ -90,6 +90,8 @@ Models were evaluated using:
   - Precision
   - Recall
   - F1-score
+  - A project presentation is included as a PowerPoint file.  
+  - GitHub does not preview large `.pptx` files — please download to view.
 
 ---
 
